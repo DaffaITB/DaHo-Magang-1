@@ -1,6 +1,6 @@
 # DaHo-Magang-1
 
-> Deadline: 13 Mei 2022
+> Deadline: 24 Juli 2022
 
 ### Petunjuk Pengerjaan
 
